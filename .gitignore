@@ -10,7 +10,6 @@
 
 # OMNeT++ specific
 out/
-results/
 *.vec
 *.sca
 *.vci
@@ -22,21 +21,7 @@ results/
 *.project
 *.qtenvrc
 *.oppbuildspec
-*.launchd.xml
 
-# SUMO generated
-*.net.xml
-*.netccfg
-*.poly.xml
-*.polycfg
-*.sumocfg
-*.rou.xml
-*.add.xml
-*.view.xml
-*.cfg
-*.xml.gz
-*.osm.xml
-*.osm
 
 # IDE/Editor specific
 .idea/
@@ -57,4 +42,3 @@ desktop.ini
 
 # User-specific
 *.user
-*.launch

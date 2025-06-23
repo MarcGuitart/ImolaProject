@@ -1,0 +1,8 @@
+<routes>
+   <vType id="racecar" vClass="vip" length="5" accel="3.5" decel="2.2" sigma="1.0"/>
+   <flow id="carflow" type="racecar" beg="0" end="0" number="5" from="tamburello" to="tosa"/>
+   
+
+   <route id="race" edges="rivazza tamburello tosa"/>
+   <route id="pitstop" edges="rivazza pitlane tosa"/>
+</routes>

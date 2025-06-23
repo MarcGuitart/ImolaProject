@@ -1,0 +1,17 @@
+<additionals>
+    <rerouter id="rerouter_0" edges="rivazza">
+        <interval end="1e9">
+           <destProbReroute id="tosa"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rerouter_1" edges="tosa">
+        <interval end="1e9">
+           <destProbReroute id="rivazza"/>
+        </interval>
+    </rerouter>
+    <rerouter id="rerouter_2" edges="pitlane">
+        <interval end="1e9">
+           <destProbReroute id="tosa"/>
+        </interval>
+    </rerouter>
+</additionals>

@@ -1,6 +1,6 @@
 # ImolaProject - Pitlane Protocol Simulation
 
-This project simulates a Vehicle-to-Infrastructure (V2I) protocol inspired by the "Box Box" command used in Formula 1 racing. It enables an RSU (Road Side Unit) to selectively reroute autonomous vehicles into a Pitlane using periodic broadcast messages. The simulation runs over a digital version of the Imola circuit using **SUMO**, **OMNeT++**, and **Veins**.
+This project simulates a Vehicle-to-Infrastructure protocol inspired by the "Box Box" command used in Formula 1 racing. It enables an RSU (Road Side Unit) to selectively reroute autonomous vehicles into a Pitlane using periodic broadcast messages. The simulation runs over a digital version of the Imola circuit using **SUMO**, **OMNeT++**, and **Veins**.
 
 ## 🧹 Project Structure
 
@@ -72,7 +72,7 @@ The `omnetpp.ini` and FSM logic fully define the selective behavior of this comm
 
 Simulation logs and animation data are stored in the `/results` folder.
 
-For more detail, consult the [Technical Report PDF](./Pitlane_Protocol_Report.pdf) included in the repository.
+For more detail, consult the [Technical Report PDF](./Imola_Project_Marc_Guitart.pdf) included in the repository.
 
 ---
 

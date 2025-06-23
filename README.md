@@ -75,6 +75,14 @@ For more detail, consult the https://github.com/MarcGuitart/ImolaProject/blob/ma
 
 ---
 
+⚠️ Known Limitations
+
+No reintegration after Pitlane: Vehicles rerouted into the Pitlane do not return to the main track.
+
+Idealized communication model: No packet loss or delays are simulated — messages are assumed perfectly received.
+
+---
+
 ## 📌 License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

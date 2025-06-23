@@ -1,0 +1,12 @@
+echo "results/
+*.vec
+*.sca
+*.log
+*.out
+*.o
+*.so
+*.bak
+*.pyc
+*.DS_Store
+.settings/
+out/" > .gitignore

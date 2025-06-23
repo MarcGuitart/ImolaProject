@@ -1,12 +1,60 @@
-echo "results/
+# Compiled object files and outputs
+*.o
+*.lo
+*.la
+*.al
+*.so
+*.d
+*.dSYM/
+*.pyc
+
+# OMNeT++ specific
+out/
+results/
 *.vec
 *.sca
-*.log
-*.out
-*.o
-*.so
+*.vci
 *.bak
-*.pyc
-*.DS_Store
-.settings/
-out/" > .gitignore
+*.log
+*.dbg
+*.status
+*.cproject
+*.project
+*.qtenvrc
+*.oppbuildspec
+*.launchd.xml
+
+# SUMO generated
+*.net.xml
+*.netccfg
+*.poly.xml
+*.polycfg
+*.sumocfg
+*.rou.xml
+*.add.xml
+*.view.xml
+*.cfg
+*.xml.gz
+*.osm.xml
+*.osm
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# User-specific
+*.user
+*.launch

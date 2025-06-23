@@ -71,7 +71,7 @@ The `omnetpp.ini` and FSM logic fully define the selective behavior of this comm
 ## 📂 Output & Results
 
 
-For more detail, consult the [Technical Report PDF](./Imola_Project_Marc_Guitart.pdf) included in the repository.
+For more detail, consult the [Imola_Project_Marc_Guitart_Frescó.pdf].
 
 ---
 

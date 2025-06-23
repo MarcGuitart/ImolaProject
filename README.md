@@ -70,7 +70,6 @@ The `omnetpp.ini` and FSM logic fully define the selective behavior of this comm
 
 ## 📂 Output & Results
 
-Simulation logs and animation data are stored in the `/results` folder.
 
 For more detail, consult the [Technical Report PDF](./Imola_Project_Marc_Guitart.pdf) included in the repository.
 

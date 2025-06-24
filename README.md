@@ -2,6 +2,9 @@
 
 This project simulates a Vehicle-to-Infrastructure protocol inspired by the "Box Box" command used in Formula 1 racing. It enables an RSU (Road Side Unit) to selectively reroute autonomous vehicles into a Pitlane using periodic broadcast messages. The simulation runs over a digital version of the Imola circuit using **SUMO**, **OMNeT++**, and **Veins**.
 
+![GIF](https://github.com/user-attachments/assets/7891b378-239b-4362-bd0d-28ec95c08616)
+
+
 ## 🧹 Project Structure
 
 The repository contains the full simulation setup:
